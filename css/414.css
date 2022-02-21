@@ -41,4 +41,7 @@
   .content3-center-h1 h1 {
     font-size: 24px;
   }
+  .pembatas {
+    margin-top: -120px !important ;
+  }
 }
